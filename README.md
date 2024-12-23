@@ -1,5 +1,5 @@
 <h1 align="center">
-  Luna Token Grabber
+  Luna Token Grabber | Cookies UPDATE! 
 </h1>
 
 <div align="center">
@@ -17,7 +17,7 @@
   <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
   <br>
   <p align="center">
-  Telegram: https://t.me/lunaxsmug
+  Telegram: [https://t.me/lunaxsmug](https://t.me/ebolas_stealer)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 </div>
@@ -135,7 +135,6 @@ The file you built will now appear in the current folder with the name you set.
 ## Contributing
 Contributions are a great way to keep the project active and up to date. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this project better, you can simply open a [feature request](https://github.com/Smug246/Luna-Grabber/issues/new?assignees=Smug246&labels=enhancement&projects=&template=feature_request.yml&title=feature%3A).
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -144,12 +143,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-## Errors
-If you find an error that you cant fix and need help with you can submit an [issue](https://github.com/Smug246/Luna-Grabber/issues/) or join the [telegram](https://t.me/lunaxsmug) for support
-
-
-## License
-Luna Grabber is distributed under the MIT License. See `LICENSE.md` for more information.
 
 
 ## Star Graph

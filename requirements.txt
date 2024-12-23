@@ -1,3 +1,4 @@
+requests
 cryptography
 opencv-python
 psutil
@@ -9,7 +10,6 @@ requests-toolbelt
 wmi
 pyaesm
 browser-cookie3
-cryptography
 colorama
 customtkinter
 nuitka

